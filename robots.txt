@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/seo-growth-lab/sitemap.xml
+Sitemap: https://dhanalakshmi-ravi.github.io/seo-growth-lab/sitemap.xml
